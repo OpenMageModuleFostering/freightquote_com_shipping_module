@@ -9,7 +9,7 @@
 <config>
   <modules>
     <Freightquote_Shipping>
-      <version>1.2.1</version>
+      <version>1.2.2</version>
     </Freightquote_Shipping>
   </modules>
   <global>
@@ -70,8 +70,8 @@
         <sort_order>10</sort_order>
         <model>Freightquote_Shipping_Model_Carrier_Shipping</model>
         <title>Freightquote.com</title>
-        <username>jholland@freightquote.com</username>
-        <password>xana7798</password>
+        <username>myemail@mydomain.com</username>
+        <password>mypassword</password>
         <shipment_label>Thank you for shopping with us!</shipment_label>
         <origin_country>US</origin_country>
         <origin_location_type>Origin</origin_location_type>

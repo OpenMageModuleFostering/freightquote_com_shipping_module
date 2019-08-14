@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>Freightquote_com_Shipping_Module</name>
-    <version>1.2.1</version>
+    <version>1.2.2</version>
     <stability>stable</stability>
     <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
     <channel>community</channel>
@@ -12,8 +12,8 @@
     <notes>Added debug logging option to help with installations</notes>
     <authors><author><name>Freightquote</name><user>MAG000030254</user><email>fqconnect@freightquote.com</email></author></authors>
     <date>2015-09-24</date>
-    <time>13:30:05</time>
-    <contents><target name="magecommunity"><dir name="Freightquote"><dir name="Shipping"><dir name="Helper"><file name="Data.php" hash="749a0471c52b7cede4e73991d2157cbc"/></dir><dir name="Model"><dir name="Carrier"><file name="Shipping.php" hash="3daaafcb5d86eed9243554736e2dfeb2"/><dir name="Source"><file name="Class.php" hash="8b010b6933bd957442512aa167c5012b"/><file name="Commodity.php" hash="a51fc911fb0aa8709c6dfe98b384a918"/><file name="Content.php" hash="184d212febb2c3c4ce76aeba47b29708"/><file name="Locationtype.php" hash="02d459f8e95d449c8b9d59b4089bef88"/><file name="Packaging.php" hash="9b3051552a611c0861ba1833aa0eab7d"/><file name="Servicetype.php" hash="07a57461b49eb7670144b5f36a6ad339"/></dir></dir><dir name="Resource"><dir name="Eav"><dir name="Mysql4"><file name="Setup.php" hash="21392cf6d0d43c33ae23d9cceddb02d7"/></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="0ebc6491a642d625bcd54f5dbc0ed1f9"/><file name="system.xml" hash="4ccf1ff41af2ac095cca3163eaa034d2"/></dir><dir name="sql"><dir name="freightquote_setup"><file name="mysql4-install-1.0.0.php" hash="d03c1c4b8679200418dc321a2e123b23"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Freightquote_Shipping.xml" hash="80e189a151b894aa53ad9c7323f6b9e1"/></dir></target></contents>
+    <time>13:45:32</time>
+    <contents><target name="magecommunity"><dir name="Freightquote"><dir name="Shipping"><dir name="Helper"><file name="Data.php" hash="749a0471c52b7cede4e73991d2157cbc"/></dir><dir name="Model"><dir name="Carrier"><file name="Shipping.php" hash="3daaafcb5d86eed9243554736e2dfeb2"/><dir name="Source"><file name="Class.php" hash="8b010b6933bd957442512aa167c5012b"/><file name="Commodity.php" hash="a51fc911fb0aa8709c6dfe98b384a918"/><file name="Content.php" hash="184d212febb2c3c4ce76aeba47b29708"/><file name="Locationtype.php" hash="02d459f8e95d449c8b9d59b4089bef88"/><file name="Packaging.php" hash="9b3051552a611c0861ba1833aa0eab7d"/><file name="Servicetype.php" hash="07a57461b49eb7670144b5f36a6ad339"/></dir></dir><dir name="Resource"><dir name="Eav"><dir name="Mysql4"><file name="Setup.php" hash="21392cf6d0d43c33ae23d9cceddb02d7"/></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="1c76b8f11e1886041e8d866360bbdc9e"/><file name="system.xml" hash="4ccf1ff41af2ac095cca3163eaa034d2"/></dir><dir name="sql"><dir name="freightquote_setup"><file name="mysql4-install-1.0.0.php" hash="d03c1c4b8679200418dc321a2e123b23"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Freightquote_Shipping.xml" hash="80e189a151b894aa53ad9c7323f6b9e1"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php><package><name/><channel>connect.magentocommerce.com/core</channel><min/><max/></package></required></dependencies>
 </package>
