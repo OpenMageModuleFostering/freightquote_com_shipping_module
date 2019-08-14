@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "This is the official Freightquote.com Shipping Module, maintained by Freightquote.com.",
+    "description": "This is the official Freightquote extension, maintained by Freightquote.",
     "authors": [
     {
         "name": "Freightquote",
