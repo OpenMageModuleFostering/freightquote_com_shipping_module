@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Freightquote_com_Shipping_Module",
+    "name": "openmage-module-fostering\/freightquote_com_shipping_module",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This is the official Freightquote extension, maintained by Freightquote.",
     "authors": [
