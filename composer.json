@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Freightquote_com_Shipping_Module",
+    "name": "OpenMageModuleFostering\/Freightquote_com_Shipping_Module",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "This is the official Freightquote extension, maintained by Freightquote.",
     "authors": [
-    {
-        "name": "Freightquote",
-        "email": "fqconnect@freightquote.com"
-    }
-],
+        {
+            "name": "Freightquote",
+            "email": "fqconnect@freightquote.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
